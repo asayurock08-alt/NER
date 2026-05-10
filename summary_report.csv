@@ -1,0 +1,4 @@
+Type,Precision,Recall,F1-score
+micro avg,0.7231,0.7482,0.7354
+macro avg,0.659,0.6809,0.6362
+weighted avg,0.7169,0.7482,0.7111
